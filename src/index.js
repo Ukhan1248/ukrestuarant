@@ -1,7 +1,13 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import SubHeading from './SubHeading/SubHeading';
+import Newsletter from './Footer/Newsletter';
+import FooterOverlay from './Footer/FooterOverlay';
+import MenuItem from './Menuitem/MenuItem';
+import Navbar from './Navbar/Navbar';
 
-import "./index.css";
-import App from "./App";
-
-ReactDOM.render(<App />, document.getElementById("root"));
+export {
+  SubHeading,
+  Newsletter,
+  FooterOverlay,
+  MenuItem,
+  Navbar,
+};
