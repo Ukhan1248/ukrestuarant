@@ -1,3 +1,3 @@
-##Website for Restuarant and menu
+## Fine Dining Restuarant Website  
 
-# ukrestuarant with React
+# Built using React.JS
